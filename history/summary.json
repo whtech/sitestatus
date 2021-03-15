@@ -40,7 +40,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 439,
     "timeMonth": 428,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 0
+    }
   },
   {
     "name": "Broken Site",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "91.55%",
+    "uptime": "91.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.83%",
-    "uptimeYear": "91.55%",
+    "uptimeMonth": "37.46%",
+    "uptimeYear": "91.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-15": 39,
+      "2021-03-15": 1077,
       "2021-03-14": 1440,
       "2021-03-13": 1440,
       "2021-03-12": 1440,
