@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 68,
-    "timeWeek": 118,
-    "timeMonth": 125,
+    "timeDay": 102,
+    "timeWeek": 122,
+    "timeMonth": 126,
     "timeYear": 93,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 324,
-    "timeWeek": 247,
-    "timeMonth": 178,
+    "timeDay": 328,
+    "timeWeek": 264,
+    "timeMonth": 184,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-03-01": 28,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 303,
-    "timeDay": 258,
-    "timeWeek": 255,
-    "timeMonth": 272,
-    "timeYear": 301,
+    "timeDay": 124,
+    "timeWeek": 239,
+    "timeMonth": 263,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2021-11-29": 18,
       "2021-04-28": 20,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 17,
-    "timeWeek": 25,
+    "timeDay": 25,
+    "timeWeek": 26,
     "timeMonth": 30,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "34.87%",
+    "uptime": "34.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 65,
+      "2022-03-03": 65,
+      "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
@@ -476,8 +477,7 @@
       "2021-03-07": 1440,
       "2021-03-06": 1440,
       "2021-03-05": 1440,
-      "2021-03-04": 1440,
-      "2021-03-03": 1440
+      "2021-03-04": 1440
     }
   }
 ]
