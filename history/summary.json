@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 106,
+    "timeDay": 76,
     "timeWeek": 83,
-    "timeMonth": 130,
+    "timeMonth": 122,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 310,
-    "timeWeek": 250,
-    "timeMonth": 184,
+    "time": 208,
+    "timeDay": 510,
+    "timeWeek": 299,
+    "timeMonth": 199,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2022-03-01": 28,
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 275,
-    "timeDay": 267,
-    "timeWeek": 312,
-    "timeMonth": 269,
-    "timeYear": 270,
+    "time": 276,
+    "timeDay": 479,
+    "timeWeek": 328,
+    "timeMonth": 282,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-07-31": 16,
       "2022-07-08": 546,
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 17,
+    "timeDay": 16,
     "timeWeek": 17,
-    "timeMonth": 31,
+    "timeMonth": 29,
     "timeYear": 25,
     "dailyMinutesDown": {}
   },
@@ -103,10 +103,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "25.39%",
+    "uptime": "25.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-30": 145,
+      "2022-10-01": 134,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -477,8 +478,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   }
 ]
