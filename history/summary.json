@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 77,
-    "timeWeek": 92,
-    "timeMonth": 109,
-    "timeYear": 98,
+    "timeDay": 365,
+    "timeWeek": 117,
+    "timeMonth": 114,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 208,
-    "timeDay": 170,
-    "timeWeek": 163,
-    "timeMonth": 210,
-    "timeYear": 203,
+    "timeDay": 120,
+    "timeWeek": 166,
+    "timeMonth": 212,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2022-03-01": 28,
       "2022-02-08": 22
@@ -45,15 +45,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "95.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
     "time": 278,
-    "timeDay": 311,
-    "timeWeek": 335,
-    "timeMonth": 326,
-    "timeYear": 272,
+    "timeDay": 328,
+    "timeWeek": 345,
+    "timeMonth": 330,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2022-10-20": 67,
       "2022-07-31": 16,
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 15,
-    "timeWeek": 18,
+    "timeDay": 67,
+    "timeWeek": 23,
     "timeMonth": 23,
     "timeYear": 24,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "24.73%",
+    "uptime": "24.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 104,
+      "2022-10-22": 113,
+      "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
@@ -478,8 +479,7 @@
       "2021-10-26": 1440,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
-      "2021-10-23": 1440,
-      "2021-10-22": 1440
+      "2021-10-23": 1440
     }
   }
 ]
