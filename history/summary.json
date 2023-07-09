@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 71,
-    "timeWeek": 88,
-    "timeMonth": 111,
+    "timeDay": 85,
+    "timeWeek": 91,
+    "timeMonth": 112,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 203,
-    "timeWeek": 217,
+    "timeDay": 198,
+    "timeWeek": 220,
     "timeMonth": 209,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2023-01-25": 40
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.83%",
-    "time": 286,
-    "timeDay": 389,
-    "timeWeek": 340,
-    "timeMonth": 287,
-    "timeYear": 303,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 285,
+    "timeDay": 139,
+    "timeWeek": 298,
+    "timeMonth": 276,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2023-06-29": 15,
       "2023-06-21": 17,
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 14,
-    "timeWeek": 17,
-    "timeMonth": 24,
+    "timeDay": 21,
+    "timeWeek": 18,
+    "timeMonth": 23,
     "timeYear": 25,
     "dailyMinutesDown": {}
   },
@@ -107,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.67%",
+    "uptime": "18.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -118,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 86,
+      "2023-07-09": 101,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -481,8 +482,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   }
 ]
