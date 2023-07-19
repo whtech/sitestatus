@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 77,
-    "timeWeek": 123,
+    "timeDay": 73,
+    "timeWeek": 117,
     "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 415,
-    "timeWeek": 270,
-    "timeMonth": 223,
+    "timeDay": 204,
+    "timeWeek": 248,
+    "timeMonth": 229,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2023-01-25": 40
@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 286,
-    "timeDay": 238,
-    "timeWeek": 270,
-    "timeMonth": 261,
-    "timeYear": 302,
+    "timeDay": 243,
+    "timeWeek": 268,
+    "timeMonth": 267,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-07-18": 12,
       "2023-06-29": 15,
       "2023-06-21": 17,
       "2023-06-08": 17,
@@ -96,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 15,
-    "timeWeek": 17,
+    "timeDay": 14,
+    "timeWeek": 16,
     "timeMonth": 24,
     "timeYear": 25,
     "dailyMinutesDown": {}
@@ -108,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.49%",
+    "uptime": "18.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -119,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 1210,
+      "2023-07-19": 156,
+      "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -482,8 +482,7 @@
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
-      "2022-07-20": 1440,
-      "2022-07-19": 1440
+      "2022-07-20": 1440
     }
   }
 ]
