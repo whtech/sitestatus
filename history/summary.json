@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 237,
-    "timeWeek": 166,
-    "timeMonth": 134,
+    "timeDay": 182,
+    "timeWeek": 165,
+    "timeMonth": 133,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 206,
-    "timeDay": 124,
-    "timeWeek": 222,
-    "timeMonth": 234,
-    "timeYear": 216,
+    "time": 207,
+    "timeDay": 187,
+    "timeWeek": 211,
+    "timeMonth": 236,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2023-01-25": 40
     }
@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 287,
-    "timeDay": 315,
-    "timeWeek": 345,
-    "timeMonth": 295,
-    "timeYear": 302,
+    "timeDay": 365,
+    "timeWeek": 346,
+    "timeMonth": 302,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-07-31": 10,
       "2023-07-24": 17,
       "2023-06-29": 15,
       "2023-06-21": 17,
@@ -96,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 68,
-    "timeWeek": 24,
+    "timeDay": 10,
+    "timeWeek": 23,
     "timeMonth": 24,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -119,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 1155,
+      "2023-08-01": 75,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -482,8 +482,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   }
 ]
